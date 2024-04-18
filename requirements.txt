@@ -1,0 +1,4 @@
+SpeechRecognition==3.8.1           # Speech recognition library
+pyttsx3==2.90                      # Text-to-speech library
+python-dateutil==2.8.2             # Library for parsing dates
+pyaudio==0.2.11                    # Library for audio input and output
